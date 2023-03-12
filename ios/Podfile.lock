@@ -1,0 +1,35 @@
+PODS:
+  - Flutter (1.0.0)
+  - Mute (0.6.1)
+  - permission_handler_apple (9.0.4):
+    - Flutter
+  - real_volume (0.0.1):
+    - Flutter
+    - Mute (~> 0.6.0)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - real_volume (from `.symlinks/plugins/real_volume/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Mute
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  real_volume:
+    :path: ".symlinks/plugins/real_volume/ios"
+
+SPEC CHECKSUMS:
+  Flutter: f04841e97a9d0b0a8025694d0796dd46242b2854
+  Mute: 20135a96076f140cc82bfc8b810e2d6150d8ec7e
+  permission_handler_apple: 44366e37eaf29454a1e7b1b7d736c2cceaeb17ce
+  real_volume: 6d09deeabb06963275fa8df0fb1616a5886363d6
+
+PODFILE CHECKSUM: ef19549a9bc3046e7bb7d2fab4d021637c0c58a3
+
+COCOAPODS: 1.11.2
